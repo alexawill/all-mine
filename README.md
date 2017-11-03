@@ -1,0 +1,2 @@
+# all-mine
+personal projects
