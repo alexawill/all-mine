@@ -1,0 +1,13 @@
+
+public class Test {
+	public static void main(String[] args) {
+		int i = Integer.parseInt("34");
+		int k = Integer.parseInt(" ");
+		int t = Integer.parseInt("3");
+		
+		System.out.println(i + k + t);
+		
+		
+		
+	}
+}
